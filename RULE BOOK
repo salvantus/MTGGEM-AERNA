@@ -1,0 +1,50 @@
+.================================================================================================================.
+ \-------------------------------------------------------------------------------------------------------------/
+
+
+  __  __   _______   ______   ______   ______   __  __              _      _____   ______   _   _       _     
+ |  \/  | |__   __| |  ____| |  ____| |  ____| |  \/  |            / \    |  __ \ |  ____| | \ | |     / \    
+ | \  / |    | |    | |  __  | |  __  | |__    | \  / |           / _ \   | |__) || |__    |  \| |    / _ \   
+ | |\/| |    | |    | | |  | | | |  | |  __|   | |\/| |          / /_\ \  |  _  / |  __|   | . ` |   / /_\ \  
+ | |  | |    | |    | |__| | | |__| | | |____  | |  | |         / /   \ \ | | \ \ | |____  | |\  |  / /   \ \ 
+ |_|  |_|    |_|    |______| |______| |______| |_|  |_|        /_/     \_\|_|  \_\|______| |_| \_| /_/     \_\
+
+
+
+.--------------------------------------------------------------------------------------------------------------.
+|===============================================================================================================|
+
+
+
+
+
+
+
+
+
+Player turns (In Order):
+
+Player 1
+Player 2
+Player 3
+Player 4
+
+At the start of each turn the player will draw 1 card.
+
+On a player turn, they are allowed to swap the place of one gem and one other gem which is parallel to the first gem.
+When this happens, if 3 or more gems are the same color, those gems get moved into the players bags as colored mana.
+
+Durring this time, its a good idea to have someone else refill the board because the player whos turn it is will be 
+potentially busy with collecting and spending their mana.
+
+If when refilling the board, there happens to be 3 or more mana in the same row again, that mana is also rewarded
+to the player whos turn it still is. 
+
+If the mana is 4 or more in a row, the player is rewarded with an extra turn.
+If the mana is 5 or more in a row, the player then clears that entire row of gems and gains all the mana.
+
+Deck Size is 22
+Hand Starting Size is 1, there are no mullagans. 
+
+Whenever the player wants, they may spend 10 grey mana to return their graveyard to their library, they can also do this for their exiles too.
+If any player runs out of library cards and is unable to spend 10 mana to return their GY/EX to their Library, they automatically lose.
